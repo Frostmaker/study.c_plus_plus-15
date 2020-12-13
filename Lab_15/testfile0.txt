@@ -1,0 +1,3 @@
+Welcome!
+There are 24 words in this file!
+The longest line in this file is the line you are currently reading. It consists of 77 characters!
